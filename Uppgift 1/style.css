@@ -1,0 +1,13 @@
+body {
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+background-color: #A8DF8E;
+}
+
+h1{
+    color: #FFE5E5;
+}
+
+p{
+    text-transform: uppercase;
+    color: #FFE5E5;
+}
