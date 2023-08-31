@@ -1,0 +1,15 @@
+.dog {
+    width: 400px;
+  }
+
+.myDiv {
+    border: 5px outset rgb(137, 255, 137);
+    background-color: rgb(255, 75, 249);    
+    text-align: center;
+}  
+
+.menu {
+    display: flex;
+    gap: 0.5rem;
+}
+#16px=1rem
