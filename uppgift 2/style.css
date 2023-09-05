@@ -1,5 +1,6 @@
 .dog {
     width: 400px;
+    display: flex;
   }
 
 .myDiv {
@@ -12,4 +13,7 @@
     display: flex;
     gap: 0.5rem;
 }
-#16px=1rem
+
+.nav-link {
+
+}
